@@ -1,0 +1,11 @@
+C:\Users\Sterl\source\repos\BankOfSterling\bin\Debug\BankOfSterling.exe.config
+C:\Users\Sterl\source\repos\BankOfSterling\bin\Debug\BankOfSterling.exe
+C:\Users\Sterl\source\repos\BankOfSterling\bin\Debug\BankOfSterling.pdb
+C:\Users\Sterl\source\repos\BankOfSterling\obj\Debug\BankOfSterling.csproj.AssemblyReference.cache
+C:\Users\Sterl\source\repos\BankOfSterling\obj\Debug\BankOfSterling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sterl\source\repos\BankOfSterling\obj\Debug\BankOfSterling.csproj.CoreCompileInputs.cache
+C:\Users\Sterl\source\repos\BankOfSterling\obj\Debug\BankOfSterling.exe
+C:\Users\Sterl\source\repos\BankOfSterling\obj\Debug\BankOfSterling.pdb
+C:\Users\Sterl\source\repos\BankOfSterling\bin\Debug\BankOfSLib.dll
+C:\Users\Sterl\source\repos\BankOfSterling\bin\Debug\BankOfSLib.pdb
+C:\Users\Sterl\source\repos\BankOfSterling\obj\Debug\BankOfSterling.csproj.CopyComplete

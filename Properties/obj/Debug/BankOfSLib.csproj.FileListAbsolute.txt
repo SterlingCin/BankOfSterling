@@ -1,0 +1,6 @@
+C:\Users\Sterl\source\repos\BankOfSLib\bin\Debug\BankOfSLib.dll
+C:\Users\Sterl\source\repos\BankOfSLib\bin\Debug\BankOfSLib.pdb
+C:\Users\Sterl\source\repos\BankOfSLib\obj\Debug\BankOfSLib.csproj.AssemblyReference.cache
+C:\Users\Sterl\source\repos\BankOfSLib\obj\Debug\BankOfSLib.csproj.CoreCompileInputs.cache
+C:\Users\Sterl\source\repos\BankOfSLib\obj\Debug\BankOfSLib.dll
+C:\Users\Sterl\source\repos\BankOfSLib\obj\Debug\BankOfSLib.pdb
